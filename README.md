@@ -1,4 +1,4 @@
-# Olá, eu sou [Vinicius] 👋
+# Olá, eu sou Vinicius 👋
 
 Desenvolvedor full-stack baseado em Cuiabá, MT.
 
@@ -14,4 +14,4 @@ Desenvolvedor full-stack baseado em Cuiabá, MT.
 - [Letrix](https://letrix-omega.vercel.app/) — Desembaralhe a palavra antes do tempo acabar
 
 ## Contato
-[LinkedIn]((https://br.linkedin.com/in/vinicius-krauchuck-80b957311)) · [Email](viniciuskrauchuck@gmail.com)
+[LinkedIn](https://br.linkedin.com/in/vinicius-krauchuck-80b957311) · [Email](mailto:viniciuskrauchuck@gmail.com)
